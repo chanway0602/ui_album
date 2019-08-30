@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1531125510 source:d:\第一阶段复习周\play_pro\game.c
+	"my.h"
+
+1531125380 d:\第一阶段复习周\play_pro\my.h
+	<stdio.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<fcntl.h>
+	<unistd.h>
+
+1531125359 source:d:\第一阶段复习周\play_pro\main.c
+	"my.h"
+
+1531125466 source:d:\第一阶段复习周\play_pro\pic.c
+	"my.h"
+
+1531125401 source:d:\第一阶段复习周\play_pro\music.c
+	"my.h"
+
+1531125430 source:d:\第一阶段复习周\play_pro\pro_set.c
+	"my.h"
+
